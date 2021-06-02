@@ -1,0 +1,21 @@
+Circuit: * C:\Users\deven\Documents\GitHub\expert-invention\Draft1.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Apr 07 10:28:12 2021
+Total elapsed time: 0.576 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 504986
+traniter = 504980
+tranpoints = 187028
+accept = 145226
+rejected = 41802
+matrix size = 9
+fillins = 0
+solver = Normal
+Matrix Compiler1: 394 bytes object code size  0.1/0.1/[0.0]
+Matrix Compiler2: off  [0.1]/0.1/0.1
+
