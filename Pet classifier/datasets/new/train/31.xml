@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>31.jpg</filename>
+	<path>C:\Users\letha\OneDrive\Desktop\491\project\datasets\new\train\31.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>87</ymin>
+			<xmax>360</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

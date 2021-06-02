@@ -1,0 +1,26 @@
+<annotation>
+	<folder>final</folder>
+	<filename>15.jpg</filename>
+	<path>C:\Users\letha\OneDrive\Desktop\491\project\datasets\shiro\final\15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>762</xmin>
+			<ymin>69</ymin>
+			<xmax>3672</xmax>
+			<ymax>3105</ymax>
+		</bndbox>
+	</object>
+</annotation>
