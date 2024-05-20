@@ -1,0 +1,196 @@
+Apartment_Name,Floor Plan,Apartment_Price,Complete Unit,Furnished,Utilities_included,Pet Friendly,Gym_and_Pool,In-Unit Laundry,Recreation areas,Free Parking,Apartment_Bus_stop,Apartment_Bus_no.,Fishpond,MSC,Zachary_Engineering,Reed Arena,Mays Business School,Rellis,Overall,Website,Contact No.,Address
+Reville Ranch,"4,4",519,N,Y,N,Y,Y,Y,Y,Y,Y,15,1.80 ,1.90 ,1.90 ,1.80 ,1.40 ,6.60 ,3.0,https://www.reveilleranchapartments.com/,(979) 314-2453,3645 Wellborn rd
+Reville Ranch,"3,3",569,N,Y,N,Y,Y,Y,Y,Y,Y,15,1.80 ,1.90 ,1.90 ,1.80 ,1.40 ,6.60 ,3.0,https://www.reveilleranchapartments.com/,(979) 314-2453,3645 Wellborn rd
+Reville Ranch,"2,2",609,N,Y,N,Y,Y,Y,Y,Y,Y,15,1.80 ,1.90 ,1.90 ,1.80 ,1.40 ,6.60 ,3.0,https://www.reveilleranchapartments.com/,(979) 314-2453,3645 Wellborn rd
+Reville Ranch,"2,2",1218,Y,Y,N,Y,Y,Y,Y,Y,Y,15,1.80 ,1.90 ,1.90 ,1.80 ,1.40 ,6.60 ,3.0,https://www.reveilleranchapartments.com/,(979) 314-2453,3645 Wellborn rd
+Reville Ranch,"1,1",999,Y,Y,N,Y,Y,Y,Y,Y,Y,15,1.80 ,1.90 ,1.90 ,1.80 ,1.40 ,6.60 ,3.0,https://www.reveilleranchapartments.com/,(979) 314-2453,3645 Wellborn rd
+Z Islander ,"4,4",609,N,Y,N,Y,Y,Y,Y,Y,Y,15,1.70 ,1.70 ,1.70 ,1.80 ,1.40 ,6.60 ,4.2,https://zislander.com/?gad_source=1&gclid=CjwKCAjw7-SvBhB6EiwAwYdCAXYwXNLKYhKlhb6uIhd7ugBD5BhguwdN2_f-UID6AlHN7XOIG8ZBuhoCCBgQAvD_BwE,(979) 200-4816,3803 Wellborn rd
+Z Islander ,"3,3",659,N,Y,N,Y,Y,Y,Y,Y,Y,15,1.70 ,1.70 ,1.70 ,1.80 ,1.40 ,6.60 ,4.2,https://zislander.com/?gad_source=1&gclid=CjwKCAjw7-SvBhB6EiwAwYdCAXYwXNLKYhKlhb6uIhd7ugBD5BhguwdN2_f-UID6AlHN7XOIG8ZBuhoCCBgQAvD_BwE,(979) 200-4816,3803 Wellborn rd
+Z Islander ,"2,2",679,N,Y,N,Y,Y,Y,Y,Y,Y,15,1.70 ,1.70 ,1.70 ,1.80 ,1.40 ,6.60 ,4.2,https://zislander.com/?gad_source=1&gclid=CjwKCAjw7-SvBhB6EiwAwYdCAXYwXNLKYhKlhb6uIhd7ugBD5BhguwdN2_f-UID6AlHN7XOIG8ZBuhoCCBgQAvD_BwE,(979) 200-4816,3803 Wellborn rd
+Z Islander ,"2,2.5",685,N,Y,N,Y,Y,Y,Y,Y,Y,15,1.70 ,1.70 ,1.70 ,1.80 ,1.40 ,6.60 ,4.2,https://zislander.com/?gad_source=1&gclid=CjwKCAjw7-SvBhB6EiwAwYdCAXYwXNLKYhKlhb6uIhd7ugBD5BhguwdN2_f-UID6AlHN7XOIG8ZBuhoCCBgQAvD_BwE,(979) 200-4816,3803 Wellborn rd
+Z Islander ,"1,1",1139,Y,Y,N,Y,Y,Y,Y,Y,Y,15,1.70 ,1.70 ,1.70 ,1.80 ,1.40 ,6.60 ,4.2,https://zislander.com/?gad_source=1&gclid=CjwKCAjw7-SvBhB6EiwAwYdCAXYwXNLKYhKlhb6uIhd7ugBD5BhguwdN2_f-UID6AlHN7XOIG8ZBuhoCCBgQAvD_BwE,(979) 200-4816,3803 Wellborn rd
+Z Islander ,0,1019,Y,Y,N,Y,Y,Y,Y,Y,Y,15,1.70 ,1.70 ,1.70 ,1.80 ,1.40 ,6.60 ,4.2,https://zislander.com/?gad_source=1&gclid=CjwKCAjw7-SvBhB6EiwAwYdCAXYwXNLKYhKlhb6uIhd7ugBD5BhguwdN2_f-UID6AlHN7XOIG8ZBuhoCCBgQAvD_BwE,(979) 200-4816,3803 Wellborn rd
+Domain at Northgate,"4,4",895,N,Y,N,Y,Y,Y,Y,N,Y,15,0.40 ,0.70 ,0.70 ,1.00 ,0.70 ,9.40 ,3.7,https://www.domainatnorthgate.com,(979) 703-6883,"101 Church AvenueCollege Station, TX 77840"
+Domain at Northgate,"3,3",1050,N,Y,N,Y,Y,Y,Y,N,Y,15,0.40 ,0.70 ,0.70 ,1.00 ,0.70 ,9.40 ,3.7,https://www.domainatnorthgate.com,(979) 703-6883,"101 Church AvenueCollege Station, TX 77840"
+Domain at Northgate,"2,2",1125,N,Y,N,Y,Y,Y,Y,N,Y,15,0.40 ,0.70 ,0.70 ,1.00 ,0.70 ,9.40 ,3.7,https://www.domainatnorthgate.com,(979) 703-6883,"101 Church AvenueCollege Station, TX 77840"
+Domain at Northgate,"1,1",1625,Y,Y,N,Y,Y,Y,Y,N,Y,15,0.40 ,0.70 ,0.70 ,1.00 ,0.70 ,9.40 ,3.7,https://www.domainatnorthgate.com,(979) 703-6883,"101 Church AvenueCollege Station, TX 77840"
+12th North,"2,2",825,N,Y,N,Y,Y,Y,Y,N,Y,15,0.40 ,0.50 ,0.70 ,1.20 ,0.80 ,9.50 ,3.4,https://live12north.com,(855) 936-5276,"301 Church AvenueCollege Station, TX 77840"
+12th North,"1,1",1450,Y,Y,N,Y,Y,Y,Y,N,Y,15,0.40 ,0.50 ,0.70 ,1.20 ,0.80 ,9.50 ,3.4,https://live12north.com,(855) 936-5276,"301 Church AvenueCollege Station, TX 77840"
+12th North,"0,0",1415,Y,Y,N,Y,Y,Y,Y,N,Y,15,0.40 ,0.50 ,0.70 ,1.20 ,0.80 ,9.50 ,3.4,https://live12north.com,(855) 936-5276,"301 Church AvenueCollege Station, TX 77840"
+The standard at collage station,"6,6",870,N,Y,N,Y,Y,Y,Y,N,Y,15,0.40 ,0.60 ,0.70 ,1.10 ,0.80 ,9.50 ,3.8,https://thestandardcollegestation.landmark-properties.com,(979) 314-0505,"315 Boyett St.College Station, TX 77840"
+The standard at collage station,"5,5",895,N,Y,N,Y,Y,Y,Y,N,Y,15,0.40 ,0.60 ,0.70 ,1.10 ,0.80 ,9.50 ,3.8,https://thestandardcollegestation.landmark-properties.com,(979) 314-0505,"315 Boyett St.College Station, TX 77840"
+The standard at collage station,"5,3",840,N,Y,N,Y,Y,Y,Y,N,Y,15,0.40 ,0.60 ,0.70 ,1.10 ,0.80 ,9.50 ,3.8,https://thestandardcollegestation.landmark-properties.com,(979) 314-0505,"315 Boyett St.College Station, TX 77840"
+The standard at collage station,"4,4",960,N,Y,N,Y,Y,Y,Y,N,Y,15,0.40 ,0.60 ,0.70 ,1.10 ,0.80 ,9.50 ,3.8,https://thestandardcollegestation.landmark-properties.com,(979) 314-0505,"315 Boyett St.College Station, TX 77840"
+The standard at collage station,"3,3",1030,N,Y,N,Y,Y,Y,Y,N,Y,15,0.40 ,0.60 ,0.70 ,1.10 ,0.80 ,9.50 ,3.8,https://thestandardcollegestation.landmark-properties.com,(979) 314-0505,"315 Boyett St.College Station, TX 77840"
+The standard at collage station,"2,2",1175,N,Y,N,Y,Y,Y,Y,N,Y,15,0.40 ,0.60 ,0.70 ,1.10 ,0.80 ,9.50 ,3.8,https://thestandardcollegestation.landmark-properties.com,(979) 314-0505,"315 Boyett St.College Station, TX 77840"
+The standard at collage station,"1,1",1355,Y,Y,N,Y,Y,Y,Y,N,Y,15,0.40 ,0.60 ,0.70 ,1.10 ,0.80 ,9.50 ,3.8,https://thestandardcollegestation.landmark-properties.com,(979) 314-0505,"315 Boyett St.College Station, TX 77840"
+Cherry Street Apartments at Northgate,"2,2",989,N,Y,N,Y,Y,Y,Y,N,Y,15,0.50 ,0.60 ,0.70 ,1.10 ,0.80 ,9.50 ,3.8,https://www.cherrystreetapts.com,1 979-608-7013,"200 Cherry St
+College Station, TX 77840"
+Cherry Street Apartments at Northgate,"1,1",1289,Y,Y,N,Y,Y,Y,Y,N,Y,15,0.50 ,0.70 ,0.80 ,1.20 ,0.90 ,9.60 ,3.8,https://www.cherrystreetapts.com,1 979-608-7013,"200 Cherry St
+College Station, TX 77840"
+Lark Northgate,"5,5",799,N,Y,N,Y,Y,Y,Y,N,Y,15,0.80 ,0.90 ,1.10 ,1.20 ,1.10 ,9.30 ,3.8,https://larknorthgate.com,(361) 349-4567,"500 Wellborn Road
+College Station, Texas"
+Lark Northgate,"4,4",819,N,Y,N,Y,Y,Y,Y,N,Y,15,0.80 ,0.90 ,1.10 ,1.20 ,1.10 ,9.30 ,3.8,https://larknorthgate.com,(361) 349-4567,"500 Wellborn Road
+College Station, Texas"
+Lark Northgate,"2,2",1109,N,Y,N,Y,Y,Y,Y,N,Y,15,0.80 ,0.90 ,1.10 ,1.20 ,1.10 ,9.30 ,3.8,https://larknorthgate.com,(361) 349-4567,"500 Wellborn Road
+College Station, Texas"
+Lark Northgate,"1,1",1449,Y,Y,N,Y,Y,Y,Y,N,Y,15,0.80 ,0.90 ,1.10 ,1.20 ,1.10 ,9.30 ,3.8,https://larknorthgate.com,(361) 349-4567,"500 Wellborn Road
+College Station, Texas"
+College Main Apartments,"2,1.5",839,N,Y,N,Y,Y,Y,Y,N,Y,15,0.80 ,0.90 ,1.00 ,1.60 ,1.30 ,9.40 ,3.2,https://www.liveatcollegemaincollegestation.com,(979) 846-2089,"4302 College Main Bryan, TX 77801"
+College Main Apartments,"2,1",779,N,Y,N,Y,Y,Y,Y,N,Y,15,0.80 ,0.90 ,1.00 ,1.60 ,1.30 ,9.40 ,3.2,https://www.liveatcollegemaincollegestation.com,(979) 846-2089,"4302 College Main Bryan, TX 77801"
+College Main Apartments,"1,1",739,N,Y,N,Y,Y,Y,Y,N,Y,15,0.80 ,0.90 ,1.00 ,1.60 ,1.30 ,9.40 ,3.2,https://www.liveatcollegemaincollegestation.com,(979) 846-2089,"4302 College Main Bryan, TX 77801"
+Aggie Station,"4,4",844,N,Y,N,Y,Y,Y,Y,N,Y,15,1.00 ,1.30 ,1.20 ,1.60 ,1.40 ,9.20 ,4.3,https://aggiesearch.tamu.edu/housing/property/aggie-station-apartments/ocp7rzt1bw,(979) 213-6793,"4151 Wellborn Road, Bryan, TX 77801"
+Aggie Station,"3,3",874,N,Y,N,Y,Y,Y,Y,N,Y,15,1.00 ,1.30 ,1.20 ,1.60 ,1.40 ,9.20 ,4.3,https://aggiesearch.tamu.edu/housing/property/aggie-station-apartments/ocp7rzt1bw,(979) 213-6793,"4151 Wellborn Road, Bryan, TX 77801"
+Aggie Station,"2,2",924,N,Y,N,Y,Y,Y,Y,N,Y,15,1.00 ,1.30 ,1.20 ,1.60 ,1.40 ,9.20 ,4.3,https://aggiesearch.tamu.edu/housing/property/aggie-station-apartments/ocp7rzt1bw,(979) 213-6793,"4151 Wellborn Road, Bryan, TX 77801"
+Country Place Apartment Homes,"1,1",855,Y,Y,N,Y,Y,Y,Y,N,N,0,1.00 ,1.10 ,1.20 ,1.80 ,1.50 ,10.20 ,3.3,https://www.originalmanagement.net,(979) 691-6200,3902 College Main
+Saddlewood Club,"3,2",1113,N,N,N,Y,Y,Y,Y,Y,Y,15,1.70 ,1.90 ,1.90 ,1.80 ,1.40 ,6.60 ,3.2,https://www.saddlewoodclub.com/#main-banner,(979) 318-3994,3625 Wellborn rd
+Saddlewood Club,"2,2",971,N,N,N,Y,Y,Y,Y,Y,Y,15,1.70 ,1.90 ,1.90 ,1.80 ,1.40 ,6.60 ,3.2,https://www.saddlewoodclub.com/#main-banner,(979) 318-3994,3625 Wellborn rd
+Saddlewood Club,"1,1",816,Y,N,N,Y,Y,Y,Y,Y,Y,15,1.70 ,1.90 ,1.90 ,1.80 ,1.40 ,6.60 ,3.2,https://www.saddlewoodclub.com/#main-banner,(979) 318-3994,3625 Wellborn rd
+OTTO ,"6,6",989,N,Y,N,Y,Y,Y,Y,N,Y,15,0.50 ,0.70 ,0.90 ,1.10 ,0.80 ,9.50 ,4.9,https://ottostudentliving.com, (979) 213-6776,"401 First St, College Station, TX 77840"
+OTTO ,"5,5",1029,N,Y,N,Y,Y,Y,Y,N,Y,15,0.50 ,0.70 ,0.90 ,1.10 ,0.80 ,9.50 ,4.9,https://ottostudentliving.com, (979) 213-6776,"401 First St, College Station, TX 77840"
+OTTO ,"4,4",1099,N,Y,N,Y,Y,Y,Y,N,Y,15,0.50 ,0.70 ,0.90 ,1.10 ,0.80 ,9.50 ,4.9,https://ottostudentliving.com, (979) 213-6776,"401 First St, College Station, TX 77840"
+OTTO ,"3,3",1129,N,Y,N,Y,Y,Y,Y,N,Y,15,0.50 ,0.70 ,0.90 ,1.10 ,0.80 ,9.50 ,4.9,https://ottostudentliving.com, (979) 213-6776,"401 First St, College Station, TX 77840"
+OTTO ,"2,2",1279,N,Y,N,Y,Y,Y,Y,N,Y,15,0.50 ,0.70 ,0.90 ,1.10 ,0.80 ,9.50 ,4.9,https://ottostudentliving.com, (979) 213-6776,"401 First St, College Station, TX 77840"
+OTTO ,"1,1",1659,Y,Y,N,Y,Y,Y,Y,N,Y,15,0.50 ,0.70 ,0.90 ,1.10 ,0.80 ,9.50 ,4.9,https://ottostudentliving.com, (979) 213-6776,"401 First St, College Station, TX 77840"
+OTTO ,"0,0",1449,Y,Y,N,Y,Y,Y,Y,N,Y,15,0.50 ,0.70 ,0.90 ,1.10 ,0.80 ,9.50 ,4.9,https://ottostudentliving.com, (979) 213-6776,"401 First St, College Station, TX 77840"
+REV,"6,6",1249,N,Y,N,Y,Y,Y,Y,N,Y,15,0.40 ,0.50 ,0.60 ,1.20 ,0.90 ,9.60 ,4.7,https://revstudentliving.com, (979) 589-7141,"315 College Main St Suite 110, College Station, TX 77840"
+REV,"5,5",1099,N,Y,N,Y,Y,Y,Y,N,Y,15,0.40 ,0.50 ,0.60 ,1.20 ,0.90 ,9.60 ,4.7,https://revstudentliving.com, (979) 589-7141,"315 College Main St Suite 110, College Station, TX 77840"
+REV,"4,4",1259,N,Y,N,Y,Y,Y,Y,N,Y,15,0.40 ,0.50 ,0.60 ,1.20 ,0.90 ,9.60 ,4.7,https://revstudentliving.com, (979) 589-7141,"315 College Main St Suite 110, College Station, TX 77840"
+REV,"3,3",1359,N,Y,N,Y,Y,Y,Y,N,Y,15,0.40 ,0.50 ,0.60 ,1.20 ,0.90 ,9.60 ,4.7,https://revstudentliving.com, (979) 589-7141,"315 College Main St Suite 110, College Station, TX 77840"
+REV,"2,2",1469,N,Y,N,Y,Y,Y,Y,N,Y,15,0.40 ,0.50 ,0.60 ,1.20 ,0.90 ,9.60 ,4.7,https://revstudentliving.com, (979) 589-7141,"315 College Main St Suite 110, College Station, TX 77840"
+REV,"1,1",2199,Y,Y,N,Y,Y,Y,Y,N,Y,15,0.40 ,0.50 ,0.60 ,1.20 ,0.90 ,9.60 ,4.7,https://revstudentliving.com, (979) 589-7141,"315 College Main St Suite 110, College Station, TX 77840"
+REV,"0,0",1799,Y,Y,N,Y,Y,Y,Y,N,Y,15,0.40 ,0.50 ,0.60 ,1.20 ,0.90 ,9.60 ,4.7,https://revstudentliving.com, (979) 589-7141,"315 College Main St Suite 110, College Station, TX 77840"
+Aspire College station,"6,6",1059,N,Y,N,Y,Y,Y,Y,Y,N,0,0.40 ,0.60 ,0.30 ,1.30 ,1.00 ,9.70 ,4.4,https://www.aspirecollegestation.com, (979) 316-2853,"711 University Dr, College Station, TX 77840"
+Aspire College station,"5,5",1019,N,Y,N,Y,Y,Y,Y,Y,N,0,0.40 ,0.60 ,0.30 ,1.30 ,1.00 ,9.70 ,4.4,https://www.aspirecollegestation.com, (979) 316-2853,"711 University Dr, College Station, TX 77840"
+Aspire College station,"4,4",1219,N,Y,N,Y,Y,Y,Y,Y,N,0,0.40 ,0.60 ,0.30 ,1.30 ,1.00 ,9.70 ,4.4,https://www.aspirecollegestation.com, (979) 316-2853,"711 University Dr, College Station, TX 77840"
+Aspire College station,"2,2",1479,N,Y,N,Y,Y,Y,Y,Y,N,0,0.40 ,0.60 ,0.30 ,1.30 ,1.00 ,9.70 ,4.4,https://www.aspirecollegestation.com, (979) 316-2853,"711 University Dr, College Station, TX 77840"
+Aspire College station,"1,1",2219,Y,Y,N,Y,Y,Y,Y,Y,N,0,0.40 ,0.60 ,0.30 ,1.30 ,1.00 ,9.70 ,4.4,https://www.aspirecollegestation.com, (979) 316-2853,"711 University Dr, College Station, TX 77840"
+The Stack,"4,4",950,N,Y,N,Y,Y,Y,Y,Y,N,0,0.55 ,0.70 ,0.30 ,1.40 ,1.10 ,9.80 ,3.6,https://stackstudentliving.com,(979) 314-7669,"711 Church Avenue
+College Station, TX 77840"
+The Stack,"3,3",1025,N,Y,N,Y,Y,Y,Y,Y,N,0,0.55 ,0.70 ,0.30 ,1.40 ,1.10 ,9.80 ,3.6,https://stackstudentliving.com,(979) 314-7669,"711 Church Avenue
+College Station, TX 77840"
+The Stack,"2,2",1050,N,Y,N,Y,Y,Y,Y,Y,N,0,0.55 ,0.70 ,0.30 ,1.40 ,1.10 ,9.80 ,3.6,https://stackstudentliving.com,(979) 314-7669,"711 Church Avenue
+College Station, TX 77840"
+The Stack,"1,1",1600,Y,Y,N,Y,Y,Y,Y,Y,N,0,0.55 ,0.70 ,0.30 ,1.40 ,1.10 ,9.80 ,3.6,https://stackstudentliving.com,(979) 314-7669,"711 Church Avenue
+College Station, TX 77840"
+The Gardens at University Apartments,"2,2",951,N,Y,N,Y,Y,Y,Y,Y,N,0,0.55 ,0.70 ,0.30 ,1.40 ,1.10 ,9.80 ,3.8,https://reslife.tamu.edu,(888) 451-3896,"1100 Hensel Dr
+Bryan, TX 77840
+United States"
+The Gardens at University Apartments,"2,1",812,N,Y,N,Y,Y,Y,Y,Y,N,0,0.55 ,0.70 ,0.30 ,1.40 ,1.10 ,9.80 ,3.8,https://reslife.tamu.edu,(888) 451-3896,"1100 Hensel Dr
+Bryan, TX 77840
+United States"
+The Gardens at University Apartments,"1,1",1101,Y,Y,N,Y,Y,Y,Y,Y,N,0,0.55 ,0.70 ,0.30 ,1.40 ,1.10 ,9.80 ,3.8,https://reslife.tamu.edu,(888) 451-3896,"1100 Hensel Dr
+Bryan, TX 77840
+United States"
+Sonoma Apartment homes,"1,1",895,Y,N,N,Y,Y,N,Y,Y,Y,22,2.60 ,2.90 ,2.40 ,3.10 ,3.60 ,12.70 ,4.6,https://www.sonomaapartmenthomes.com/,979-696-7275,1903 Dartmouth St
+Sonoma Apartment homes,"2,1",950,Y,N,N,Y,Y,N,Y,Y,Y,22,2.60 ,2.90 ,2.40 ,3.10 ,3.60 ,12.70 ,4.6,https://www.sonomaapartmenthomes.com/,979-696-7275,1903 Dartmouth St
+Sonoma Apartment homes,"2,2",995,Y,N,N,Y,Y,N,Y,Y,Y,22,2.60 ,2.90 ,2.40 ,3.10 ,3.60 ,12.70 ,4.6,https://www.sonomaapartmenthomes.com/,979-696-7275,1903 Dartmouth St
+Sonoma Apartment homes,"2,2",1095,Y,N,N,Y,Y,Y,Y,Y,Y,22,2.60 ,2.90 ,2.40 ,3.10 ,3.60 ,12.70 ,4.6,https://www.sonomaapartmenthomes.com/,979-696-7275,1903 Dartmouth St
+Lofts at Wolf Pen Creek,"1,1",1399,N,Y,N,Y,Y,Y,Y,Y,Y,27,2.70 ,3.00 ,2.50 ,3.20 ,3.70 ,15.80 ,3.8,https://www.loftsatwolfpen.com/?utm_source=google&utm_medium=google%20my%20business&utm_campaign=website%20button,979-314-1900,614 Holleman Dr E
+Lofts at Wolf Pen Creek,"2,2",849,N,Y,N,Y,Y,Y,Y,Y,Y,27,2.70 ,3.00 ,2.50 ,3.20 ,3.70 ,15.80 ,3.8,https://www.loftsatwolfpen.com/?utm_source=google&utm_medium=google%20my%20business&utm_campaign=website%20button,979-314-1900,614 Holleman Dr E
+Lofts at Wolf Pen Creek,"2,2.5",849,N,Y,N,Y,Y,Y,Y,Y,Y,27,2.70 ,3.00 ,2.50 ,3.20 ,3.70 ,15.80 ,3.8,https://www.loftsatwolfpen.com/?utm_source=google&utm_medium=google%20my%20business&utm_campaign=website%20button,979-314-1900,614 Holleman Dr E
+Lofts at Wolf Pen Creek,"3,3",789,N,Y,N,Y,Y,Y,Y,Y,Y,27,2.70 ,3.00 ,2.50 ,3.20 ,3.70 ,15.80 ,3.8,https://www.loftsatwolfpen.com/?utm_source=google&utm_medium=google%20my%20business&utm_campaign=website%20button,979-314-1900,614 Holleman Dr E
+Lofts at Wolf Pen Creek,"4,2",439,N,Y,N,Y,Y,Y,Y,Y,Y,27,2.70 ,3.00 ,2.50 ,3.20 ,3.70 ,15.80 ,3.8,https://www.loftsatwolfpen.com/?utm_source=google&utm_medium=google%20my%20business&utm_campaign=website%20button,979-314-1900,614 Holleman Dr E
+Lofts at Wolf Pen Creek,"4,4",709,N,Y,N,Y,Y,Y,Y,Y,Y,27,2.70 ,3.00 ,2.50 ,3.20 ,3.70 ,15.80 ,3.8,https://www.loftsatwolfpen.com/?utm_source=google&utm_medium=google%20my%20business&utm_campaign=website%20button,979-314-1900,614 Holleman Dr E
+Arbors at Wolf Pen Creek,"1,1",1099,Y,N,N,Y,Y,Y,Y,Y,Y,27,2.50 ,3.20 ,2.50 ,3.00 ,3.50 ,12.50 ,2.6,https://www.myarbors.com/,979-325-2175,301 Holleman Drive
+Arbors at Wolf Pen Creek,"2,2",1369,Y,N,N,Y,Y,Y,Y,Y,Y,27,2.50 ,3.20 ,2.50 ,3.00 ,3.50 ,12.50 ,2.6,https://www.myarbors.com/,979-325-2175,301 Holleman Drive
+Arbors at Wolf Pen Creek,"3,2",1549,Y,N,N,Y,Y,Y,Y,Y,Y,27,2.50 ,3.20 ,2.50 ,3.00 ,3.50 ,12.50 ,2.6,https://www.myarbors.com/,979-325-2175,301 Holleman Drive
+The Ridge,"1,1",935,Y,N,N,Y,Y,Y,Y,Y,Y,26,3.20 ,3.90 ,3.20 ,3.60 ,4.20 ,14.30 ,3.9,https://www.ridgeapartments.com/,979-314-0997,2250 Dartmouth St
+The Ridge,"2,1",1109,Y,N,N,Y,Y,Y,Y,Y,Y,26,3.20 ,3.90 ,3.20 ,3.60 ,4.20 ,14.30 ,3.9,https://www.ridgeapartments.com/,979-314-0997,2250 Dartmouth St
+The Ridge,"2,2",1119,Y,N,N,Y,Y,Y,Y,Y,Y,26,3.20 ,3.90 ,3.20 ,3.60 ,4.20 ,14.30 ,3.9,https://www.ridgeapartments.com/,979-314-0997,2250 Dartmouth St
+The Ridge,"3,2",1369,Y,N,N,Y,Y,Y,Y,Y,Y,26,3.20 ,3.90 ,3.20 ,3.60 ,4.20 ,14.30 ,3.9,https://www.ridgeapartments.com/,979-314-0997,2250 Dartmouth St
+The Trails at Wolf Pen,"1,1",969,Y,N,N,Y,Y,Y,Y,Y,Y,26,3.50 ,4.20 ,3.40 ,3.90 ,4.50 ,14.40 ,3.0,https://www.thetrailsatwolfpencreek.com/,933-360-2616,950 Colgate Dr
+The Trails at Wolf Pen,"2,1.5",579,N,N,N,Y,Y,Y,Y,Y,Y,26,3.50 ,4.20 ,3.40 ,3.90 ,4.50 ,14.40 ,3.0,https://www.thetrailsatwolfpencreek.com/,933-360-2616,950 Colgate Dr
+The Trails at Wolf Pen,"2,1.5",1158,Y,N,N,Y,Y,Y,Y,Y,Y,26,3.50 ,4.20 ,3.40 ,3.90 ,4.50 ,14.40 ,3.0,https://www.thetrailsatwolfpencreek.com/,933-360-2616,950 Colgate Dr
+The Trails at Wolf Pen,"2,2",629,N,N,N,Y,Y,Y,Y,Y,Y,26,3.50 ,4.20 ,3.40 ,3.90 ,4.50 ,14.40 ,3.0,https://www.thetrailsatwolfpencreek.com/,933-360-2616,950 Colgate Dr
+The Trails at Wolf Pen,"2,2",1258,Y,N,N,Y,Y,Y,Y,Y,Y,26,3.50 ,4.20 ,3.40 ,3.90 ,4.50 ,14.40 ,3.0,https://www.thetrailsatwolfpencreek.com/,933-360-2616,950 Colgate Dr
+The Trails at Wolf Pen,"4,2",409,N,N,N,Y,Y,Y,Y,Y,Y,26,3.50 ,4.20 ,3.40 ,3.90 ,4.50 ,14.40 ,3.0,https://www.thetrailsatwolfpencreek.com/,933-360-2616,950 Colgate Dr
+The Trails at Wolf Pen,"4,2",1636,Y,N,N,Y,Y,Y,Y,Y,Y,26,3.50 ,4.20 ,3.40 ,3.90 ,4.50 ,14.40 ,3.0,https://www.thetrailsatwolfpencreek.com/,933-360-2616,950 Colgate Dr
+Parcside Townhomes,"2,2",1109,Y,N,N,Y,Y,Y,Y,Y,Y,26,3.50 ,4.20 ,3.40 ,3.90 ,4.50 ,14.40 ,3.7,https://www.parcsidetownhomes.com/?utm_source=GoogleLocalListing&utm_medium=organic,979-378-6243,2500 Central Park Ln
+Parcside Townhomes,"3,2",1223,Y,N,N,Y,Y,Y,Y,Y,Y,26,3.50 ,4.20 ,3.40 ,3.90 ,4.50 ,14.40 ,3.7,https://www.parcsidetownhomes.com/?utm_source=GoogleLocalListing&utm_medium=organic,979-378-6243,2500 Central Park Ln
+The Point on Redmond,"2,1",905,Y,N,N,Y,Y,Y,N,Y,Y,27,2.70 ,2.50 ,1.90 ,2.20 ,2.80 ,12.00 ,3.7,https://www.pointonredmond.com/,979-364-4109,309 Redmond dr
+The Point on Redmond,"2,1.5",905,Y,N,N,Y,Y,Y,N,Y,Y,27,2.70 ,2.50 ,1.90 ,2.20 ,2.80 ,12.00 ,3.7,https://www.pointonredmond.com/,979-364-4109,309 Redmond dr
+Redstone,"2,1",769,Y,N,N,Y,Y,N,Y,Y,Y,26,3.30 ,3.20 ,2.70 ,2.90 ,3.50 ,13.80 ,3.1,https://www.liveatredstonecollegestation.com/,979-696-1848,1301 Barthelow Dr
+Redstone,"2,1",799,Y,N,N,Y,Y,Y,Y,Y,Y,26,3.30 ,3.20 ,2.70 ,2.90 ,3.50 ,13.80 ,3.1,https://www.liveatredstonecollegestation.com/,979-696-1848,1301 Barthelow Dr
+Arbor Square,"1,1",749,Y,N,N,Y,Y,N,Y,Y,Y,26,3.30 ,3.20 ,2.80 ,2.90 ,3.50 ,13.20 ,2.8,https://www.liveatarborsquarecollegestation.com/,979-693-3701,1700 Southwest Pkwy
+Arbor Square,"2,2",849,Y,N,N,Y,Y,N,Y,Y,Y,26,3.30 ,3.20 ,2.80 ,2.90 ,3.50 ,13.20 ,2.8,https://www.liveatarborsquarecollegestation.com/,979-693-3701,1700 Southwest Pkwy
+Dwell @ 1600,"1,1",810,Y,N,N,Y,Y,N,N,Y,Y,26,3.20 ,3.20 ,3.20 ,2.90 ,3.50 ,13.10 ,3.8,https://www.dwellat1600.com/?utm_knock=gmb,972-645-2815,1600 Southwest Pkwy
+Dwell @ 1600,"2,1.5",925,Y,N,N,Y,Y,N,N,Y,Y,26,3.20 ,3.20 ,3.20 ,2.90 ,3.50 ,13.10 ,3.8,https://www.dwellat1600.com/?utm_knock=gmb,972-645-2815,1600 Southwest Pkwy
+Dwell @ 1600,"2,2",980,Y,N,N,Y,Y,N,N,Y,Y,26,3.20 ,3.20 ,3.20 ,2.90 ,3.50 ,13.10 ,3.8,https://www.dwellat1600.com/?utm_knock=gmb,972-645-2815,1600 Southwest Pkwy
+Dwell @ 1600,"3,2",1200,Y,N,N,Y,Y,N,N,Y,Y,26,3.20 ,3.20 ,3.20 ,2.90 ,3.50 ,13.10 ,3.8,https://www.dwellat1600.com/?utm_knock=gmb,972-645-2815,1600 Southwest Pkwy
+Midtown apartments,"4,2",435,N,Y,N,Y,N,Y,N,Y,Y,26,2.70 ,2.50 ,2.40 ,2.20 ,2.80 ,12.00 ,4.1,https://www.midtown-foxmeadows.com/,979-704-0860,"1612 F, Holleman Dr"
+Fox Meadows,"3,2",1260,Y,N,N,Y,N,Y,N,Y,Y,34,2.70 ,2.50 ,2.40 ,2.20 ,2.80 ,12.00 ,3.1,https://www.midtown-foxmeadows.com/,979-704-0860,"1612 F, Holleman Dr"
+Holleman Oaks Apartments,"1,1",699,Y,N,N,Y,Y,Y,Y,Y,Y,27,2.80 ,2.60 ,2.30 ,2.30 ,2.90 ,12.10 ,2.5,https://www.hollemanoaksapts.com/,979-271-6940,1501 Holleman Dr
+Holleman Oaks Apartments,"2,2",799,N,N,N,Y,Y,Y,Y,Y,Y,27,2.80 ,2.60 ,2.30 ,2.30 ,2.90 ,12.10 ,2.5,https://www.hollemanoaksapts.com/,979-271-6940,1501 Holleman Dr
+Tower Park Apartments,"1,1",850,Y,N,Y,Y,Y,N,Y,Y,Y,27,2.70 ,2.50 ,2.20 ,2.20 ,2.80 ,12.00 ,3.3,http://www.towerparkapts.com/,979-314-0721,1601 Holleman Dr
+Tower Park Apartments,"2,1.5",1100,Y,N,Y,Y,Y,N,Y,Y,Y,27,2.70 ,2.50 ,2.20 ,2.20 ,2.80 ,12.00 ,3.3,http://www.towerparkapts.com/,979-314-0721,1601 Holleman Dr
+Tower Park Apartments,"2,2",1300,Y,N,Y,Y,Y,N,Y,Y,Y,27,2.70 ,2.50 ,2.20 ,2.20 ,2.80 ,12.00 ,3.3,http://www.towerparkapts.com/,979-314-0721,1601 Holleman Dr
+Tower Park Apartments,"3,2",1550,Y,N,Y,Y,Y,N,Y,Y,Y,27,2.70 ,2.50 ,2.20 ,2.20 ,2.80 ,12.00 ,3.3,http://www.towerparkapts.com/,979-314-0721,1601 Holleman Dr
+Park Place Apartments,"1,1",99999,Y,N,N,Y,Y,N,N,Y,Y,26,1.80 ,2.10 ,1.80 ,2.00 ,2.40 ,11.60 ,4.7,https://www.parkplacecollegestation.com/,979-693-2300,1505 Park Pl
+Park Place Apartments,"2,1",99999,Y,N,N,Y,Y,N,N,Y,Y,26,1.80 ,2.10 ,1.80 ,2.00 ,2.40 ,11.60 ,4.7,https://www.parkplacecollegestation.com/,979-693-2300,1505 Park Pl
+Scandia,"1,1",759,Y,N,N,Y,Y,N,Y,Y,Y,27,1.90 ,2.20 ,1.90 ,1.90 ,2.50 ,11.70 ,2.7,https://www.liveatscandiacollegestation.com/,979-693-6505,401 Anderson St
+Scandia,"2,1.5",859,Y,N,N,Y,Y,N,Y,Y,Y,27,1.90 ,2.20 ,1.90 ,1.90 ,2.50 ,11.70 ,2.7,https://www.liveatscandiacollegestation.com/,979-693-6505,401 Anderson St
+Scandia,"2,2",919,Y,N,N,Y,Y,N,Y,Y,Y,27,1.90 ,2.20 ,1.90 ,1.90 ,2.50 ,11.70 ,2.7,https://www.liveatscandiacollegestation.com/,979-693-6505,401 Anderson St
+Berkeley House at College Station,"1,1",1219,N,N,N,Y,Y,Y,Y,Y,Y,36,1.50 ,1.30 ,2.00 ,1.00 ,1.60 ,10.80 ,3.8,https://www.liveberkeleyhouse.com/,979-314-2530,801 Wellborn Rd
+Berkeley House at College Station,"2,2",869,N,N,N,Y,Y,Y,Y,Y,Y,36,1.50 ,1.30 ,2.00 ,1.00 ,1.60 ,10.80 ,3.8,https://www.liveberkeleyhouse.com/,979-314-2530,801 Wellborn Rd
+Berkeley House at College Station,"3,3",819,N,N,N,Y,Y,Y,Y,Y,Y,36,1.50 ,1.30 ,2.00 ,1.00 ,1.60 ,10.80 ,3.8,https://www.liveberkeleyhouse.com/,979-314-2530,801 Wellborn Rd
+Berkeley House at College Station,"4,4",775,N,N,N,Y,Y,Y,Y,Y,Y,36,1.50 ,1.30 ,2.00 ,1.00 ,1.60 ,10.80 ,3.8,https://www.liveberkeleyhouse.com/,979-314-2530,801 Wellborn Rd
+The Vintage at College Station,"1,1",749,Y,N,N,Y,Y,N,Y,Y,Y,31,3.20 ,2.80 ,3.90 ,2.60 ,5.50 ,12.40 ,2.2,https://www.vintageatcollegestation.com/,979-693-0804,1101 Southwest Pkwy
+The Vintage at College Station,"2,2",849,Y,N,N,Y,Y,N,Y,Y,Y,31,3.20 ,2.80 ,3.90 ,2.60 ,5.50 ,12.40 ,2.2,https://www.vintageatcollegestation.com/,979-693-0804,1101 Southwest Pkwy
+The Vintage at College Station,"2,1.5",949,Y,N,N,Y,Y,N,Y,Y,Y,31,3.20 ,2.80 ,3.90 ,2.60 ,5.50 ,12.40 ,2.2,https://www.vintageatcollegestation.com/,979-693-0804,1101 Southwest Pkwy
+The Grove at Southwood,"2,2",920,Y,N,N,Y,Y,Y,Y,Y,Y,31,2.70 ,2.50 ,2.80 ,2.30 ,5.30 ,12.20 ,3.3,http://www.grovesouthwood.com/,979-696-9771,603 Southwest Pkwy
+Madison Pointe Apartments,"1,1",885,Y,N,N,Y,Y,Y,Y,Y,Y,31,2.60 ,2.40 ,3.20 ,2.60 ,4.80 ,11.70 ,4.0,https://adaraportal.yottareal.com/dba/dbahome?dbaid=54&dbaid=54,979-599-7173,503 Southwest Pkwy
+Madison Pointe Apartments,"2,1.5",998,Y,N,N,Y,Y,Y,Y,Y,Y,31,2.60 ,2.40 ,3.20 ,2.60 ,4.80 ,11.70 ,4.0,https://adaraportal.yottareal.com/dba/dbahome?dbaid=54&dbaid=54,979-599-7173,503 Southwest Pkwy
+Madison Pointe Apartments,"2,2",1170,Y,N,N,Y,Y,Y,Y,Y,Y,31,2.60 ,2.40 ,3.20 ,2.60 ,4.80 ,11.70 ,4.0,https://adaraportal.yottareal.com/dba/dbahome?dbaid=54&dbaid=54,979-599-7173,503 Southwest Pkwy
+Madison Pointe Apartments,"3,2",1399,Y,N,N,Y,Y,Y,Y,Y,Y,31,2.60 ,2.40 ,3.20 ,2.60 ,4.80 ,11.70 ,4.0,https://adaraportal.yottareal.com/dba/dbahome?dbaid=54&dbaid=54,979-599-7173,503 Southwest Pkwy
+Sausalito Apartments,"1,1",852,Y,N,N,Y,Y,N,Y,Y,Y,22,3.10 ,2.90 ,2.40 ,3.10 ,3.60 ,12.50 ,3.4,https://www.thesausalitoapartments.com/floorplans,18335792602,"1001 Harvey Rd, College Station, TX 77840"
+Sausalito Apartments,"1,1",872,Y,N,N,Y,Y,N,Y,Y,Y,22,3.10 ,2.90 ,2.40 ,3.10 ,3.60 ,12.50 ,3.4,https://www.thesausalitoapartments.com/floorplans,18335792602,"1002 Harvey Rd, College Station, TX 77840"
+Sausalito Apartments,"2,1.5",982,Y,N,N,Y,Y,N,Y,Y,Y,22,3.10 ,2.90 ,2.40 ,3.10 ,3.60 ,12.50 ,3.4,https://www.thesausalitoapartments.com/floorplans,18335792602,"1003 Harvey Rd, College Station, TX 77840"
+Sausalito Apartments,"2,2",1082,Y,N,N,Y,Y,N,Y,Y,Y,22,3.10 ,2.90 ,2.40 ,3.10 ,3.60 ,12.50 ,3.4,https://www.thesausalitoapartments.com/floorplans,18335792602,"1004 Harvey Rd, College Station, TX 77840"
+Sausalito Apartments,"3,2",1362,Y,N,N,Y,Y,N,Y,Y,Y,22,3.10 ,2.90 ,2.40 ,3.10 ,3.60 ,12.50 ,3.4,https://www.thesausalitoapartments.com/floorplans,18335792602,"1005 Harvey Rd, College Station, TX 77840"
+Sundance Apartments,"1,1",872,Y,N,N,Y,Y,N,Y,Y,Y,22,2.40 ,2.70 ,2.20 ,2.90 ,3.50 ,12.40 ,3.3,https://www.thesundanceapartments.com/floorplans,18444057038,"811 Harvey Rd, College Station, TX 77840"
+Sundance Apartments,"2,1.5",982,Y,N,N,Y,Y,N,Y,Y,Y,22,2.40 ,2.70 ,2.20 ,2.90 ,3.50 ,12.40 ,3.3,https://www.thesundanceapartments.com/floorplans,18444057038,"812 Harvey Rd, College Station, TX 77840"
+Sundance Apartments,"2,2",1082,Y,N,N,Y,Y,N,Y,Y,Y,22,2.40 ,2.70 ,2.20 ,2.90 ,3.50 ,12.40 ,3.3,https://www.thesundanceapartments.com/floorplans,18444057038,"813 Harvey Rd, College Station, TX 77840"
+Sundance Apartments,"3,2",1362,Y,N,N,Y,Y,N,Y,Y,Y,22,2.40 ,2.70 ,2.20 ,2.90 ,3.50 ,12.40 ,3.3,https://www.thesundanceapartments.com/floorplans,18444057038,"814 Harvey Rd, College Station, TX 77840"
+Sundance Apartments,"4,2",1532,Y,N,N,Y,Y,N,Y,Y,Y,22,2.40 ,2.70 ,2.20 ,2.90 ,3.50 ,12.40 ,3.3,https://www.thesundanceapartments.com/floorplans,18444057038,"815 Harvey Rd, College Station, TX 77840"
+The Ivy,"1,1",825,Y,N,N,Y,Y,N,Y,Y,Y,22,2.80 ,3.10 ,2.60 ,3.30 ,3.90 ,12.7,3.1,https://www.theivycs.com/,19796805000,"1201 Harvey Rd, College Station, TX 77840"
+The Ivy,"2,1",899,Y,N,N,Y,Y,N,Y,Y,Y,22,2.80 ,3.10 ,2.60 ,3.30 ,3.90 ,12.7,3.1,https://www.theivycs.com/,19796805000,"1202 Harvey Rd, College Station, TX 77840"
+The Ivy,"2,2",999,Y,N,N,Y,Y,N,Y,Y,Y,22,2.80 ,3.10 ,2.60 ,3.30 ,3.90 ,12.7,3.1,https://www.theivycs.com/,19796805000,"1203 Harvey Rd, College Station, TX 77840"
+The Ivy,"3,2",1350,Y,N,N,Y,Y,N,Y,Y,Y,22,2.80 ,3.10 ,2.60 ,3.30 ,3.90 ,12.7,3.1,https://www.theivycs.com/,19796805000,"1204 Harvey Rd, College Station, TX 77840"
+The Grand 1501 Apartments,"1,1",99999,Y,N,N,Y,Y,N,Y,Y,Y,22,3.60 ,3.80 ,3.40 ,3.80 ,4.30 ,15.2,3.0,https://www.thegrand1501.com/,19796801501,"1501 Harvey Rd, College Station, TX 77840"
+The Grand 1501 Apartments,"2,1",99999,Y,N,N,Y,Y,N,Y,Y,Y,22,3.60 ,3.80 ,3.40 ,3.80 ,4.30 ,15.2,3.0,https://www.thegrand1501.com/,19796801501,"1502 Harvey Rd, College Station, TX 77840"
+The Grand 1501 Apartments,"2,2",99999,Y,N,N,Y,Y,N,Y,Y,Y,22,3.60 ,3.80 ,3.40 ,3.80 ,4.30 ,15.2,3.0,https://www.thegrand1501.com/,19796801501,"1503 Harvey Rd, College Station, TX 77840"
+The Grand 1501 Apartments,"3,2",99999,Y,N,N,Y,Y,N,Y,Y,Y,22,3.60 ,3.80 ,3.40 ,3.80 ,4.30 ,15.2,3.0,https://www.thegrand1501.com/,19796801501,"1504 Harvey Rd, College Station, TX 77840"
+The Dominik Apartments,"1,1",699,Y,N,N,Y,Y,N,Y,Y,Y,22,2.00 ,2.30 ,1.80 ,2.50 ,2.90 ,11.9,3.5,https://www.thedominikapts.com/,19793785623,"700 Dominik Dr, College Station, TX 77840"
+The Dominik Apartments,"2,1.5",799,Y,N,N,Y,Y,N,Y,Y,Y,22,2.00 ,2.30 ,1.80 ,2.50 ,2.90 ,11.9,3.5,https://www.thedominikapts.com/,19793785623,"701 Dominik Dr, College Station, TX 77840"
+The Dominik Apartments,"2,2",850,Y,N,N,Y,Y,N,Y,Y,Y,22,2.00 ,2.30 ,1.80 ,2.50 ,2.90 ,11.9,3.5,https://www.thedominikapts.com/,19793785623,"702 Dominik Dr, College Station, TX 77840"
+The Dominik Apartments,"3,2",1310,Y,N,N,Y,Y,N,Y,Y,Y,22,2.00 ,2.30 ,1.80 ,2.50 ,2.90 ,11.9,3.5,https://www.thedominikapts.com/,19793785623,"703 Dominik Dr, College Station, TX 77840"
+Eastgate Apartments,"1,1",99999,Y,N,N,Y,Y,N,Y,Y,Y,12,1.40 ,1.90 ,1.30 ,2.90 ,2.30 ,11,3.2,https://www.eastgatebcs.com/,19796967380,"401 Lincoln Ave, College Station, TX 77840"
+Eastgate Apartments,"2,1.5",99999,Y,N,N,Y,Y,N,Y,Y,Y,12,1.40 ,1.90 ,1.30 ,2.90 ,2.30 ,11,3.2,https://www.eastgatebcs.com/,19796967380,"402 Lincoln Ave, College Station, TX 77840"
+The Halston,"1,1",955,Y,N,N,Y,Y,Y,Y,Y,Y,12,2.80 ,3.10 ,1.80 ,3.10 ,2.70 ,11.5,3.4,https://www.thehalstonapt.com/,19799780622,"801 Spring Loop, College Station, TX 77840"
+The Halston,"2,1.5",925,Y,N,N,Y,Y,Y,Y,Y,Y,12,2.80 ,3.10 ,1.80 ,3.10 ,2.70 ,11.5,3.4,https://www.thehalstonapt.com/,19799780622,"802 Spring Loop, College Station, TX 77840"
+The Halston,"2,2",1005,Y,N,N,Y,Y,Y,Y,Y,Y,12,2.80 ,3.10 ,1.80 ,3.10 ,2.70 ,11.5,3.4,https://www.thehalstonapt.com/,19799780622,"803 Spring Loop, College Station, TX 77840"
+Willow Oaks Apartments,0,792,Y,N,N,Y,Y,N,Y,Y,Y,12,3.10 ,3.40 ,2.40 ,4.30 ,3.30 ,10.5,3.1,https://www.willowoaksapt.com/?utm_source=GMB&utm_medium=organic,18336641457,"3902 E 29th St, Bryan, TX 77802"
+Willow Oaks Apartments,"1,1",942,Y,N,N,Y,Y,N,Y,Y,Y,12,3.10 ,3.40 ,2.40 ,4.30 ,3.30 ,10.5,3.1,https://www.willowoaksapt.com/?utm_source=GMB&utm_medium=organic,18336641457,"3903 E 29th St, Bryan, TX 77802"
+Willow Oaks Apartments,"2,1",1057,Y,N,N,Y,Y,N,Y,Y,Y,12,3.10 ,3.40 ,2.40 ,4.30 ,3.30 ,10.5,3.1,https://www.willowoaksapt.com/?utm_source=GMB&utm_medium=organic,18336641457,"3904 E 29th St, Bryan, TX 77802"
+Willow Oaks Apartments,"2,2",1092,Y,N,N,Y,Y,N,Y,Y,Y,12,3.10 ,3.40 ,2.40 ,4.30 ,3.30 ,10.5,3.1,https://www.willowoaksapt.com/?utm_source=GMB&utm_medium=organic,18336641457,"3905 E 29th St, Bryan, TX 77802"
+Willow Oaks Apartments,"2,1.5",1112,Y,N,N,Y,Y,N,Y,Y,Y,12,3.10 ,3.40 ,2.40 ,4.30 ,3.30 ,10.5,3.1,https://www.willowoaksapt.com/?utm_source=GMB&utm_medium=organic,18336641457,"3906 E 29th St, Bryan, TX 77802"
+Willow Oaks Apartments,"3,2",1192,Y,N,N,Y,Y,N,Y,Y,Y,12,3.10 ,3.40 ,2.40 ,4.30 ,3.30 ,10.5,3.1,https://www.willowoaksapt.com/?utm_source=GMB&utm_medium=organic,18336641457,"3907 E 29th St, Bryan, TX 77802"
+Creekside Apartments,"2,1",875,Y,N,N,Y,N,N,N,Y,N,0,3.50 ,4.20 ,2.70 ,4.10 ,4.10 ,10.5,2.3,https://www.bcsonlinerealestate.com/availtwo.php,19792688620,"3700 Plainsman Ln, Bryan, TX 77802"
+EnVue Apartments,"1,1",872,Y,N,N,Y,Y,N,Y,Y,N,0,3.40 ,4.10 ,3.10 ,4.20 ,4.00 ,10.3,3.7,https://www.envueapt.com/?utm_source=GMB&utm_medium=organic,18886706461,"3535 Plainsman Ln, Bryan, TX 77802"
+EnVue Apartments,"2,1",952,Y,N,N,Y,Y,N,Y,Y,N,0,3.40 ,4.10 ,3.10 ,4.20 ,4.00 ,10.3,3.7,https://www.envueapt.com/?utm_source=GMB&utm_medium=organic,18886706461,"3536 Plainsman Ln, Bryan, TX 77802"
+EnVue Apartments,"2,1.5",984,Y,N,N,Y,Y,N,Y,Y,N,0,3.40 ,4.10 ,3.10 ,4.20 ,4.00 ,10.3,3.7,https://www.envueapt.com/?utm_source=GMB&utm_medium=organic,18886706461,"3537 Plainsman Ln, Bryan, TX 77802"
+EnVue Apartments,"3,2",1270,Y,N,N,Y,Y,N,Y,Y,N,0,3.40 ,4.10 ,3.10 ,4.20 ,4.00 ,10.3,3.7,https://www.envueapt.com/?utm_source=GMB&utm_medium=organic,18886706461,"3538 Plainsman Ln, Bryan, TX 77802"
+Walden Pond,"1,1",99999,Y,N,Y,Y,Y,N,Y,Y,Y,35,2.70 ,2.60 ,3.10 ,1.80 ,2.70 ,9.2,2.5,https://www.liveatwaldenpondcollegestation.com/,19796965777,"1331 Harvey Mitchell Pkwy S, College Station, TX 77840"
+Walden Pond,"1,2",99999,Y,N,Y,Y,Y,N,Y,Y,Y,35,2.70 ,2.60 ,3.10 ,1.80 ,2.70 ,10.4,2.5,https://www.liveatwaldenpondcollegestation.com/,19796965777,"1332 Harvey Mitchell Pkwy S, College Station, TX 77840"
+Limestone Terrace,"1,1",1070,Y,N,N,Y,Y,Y,Y,Y,Y,35,3.00 ,2.90 ,3.60 ,2.20 ,3.00 ,9.5,3.2,https://knightsgateapts.com/,19796938506,"1270 Harvey Mitchell Pkwy S, College Station, TX 77840"
+Limestone Terrace,"2,2",1234,Y,N,N,Y,Y,Y,Y,Y,Y,35,3.00 ,2.90 ,3.60 ,2.20 ,3.00 ,9.5,3.2,https://knightsgateapts.com/,19796938506,"1271 Harvey Mitchell Pkwy S, College Station, TX 77840"
+Limestone Terrace,"3,3",1440,Y,N,N,Y,Y,Y,Y,Y,Y,35,3.00 ,2.90 ,3.60 ,2.20 ,3.00 ,9.5,3.2,https://knightsgateapts.com/,19796938506,"1272 Harvey Mitchell Pkwy S, College Station, TX 77840"
+Parkway Apartments,"1,1",1110,Y,Y,Y,Y,Y,Y,Y,Y,Y,35,3.10 ,3.00 ,3.80 ,2.30 ,3.10 ,9.6,3.7,http://theparkwaylife.com/,19793140382,"1350 Harvey Mitchell Pkwy S, College Station, TX 77840"
+Parkway Apartments,"2,2",680,N,Y,Y,Y,Y,Y,Y,Y,Y,35,3.10 ,3.00 ,3.80 ,2.30 ,3.10 ,9.6,3.7,http://theparkwaylife.com/,19793140382,"1351 Harvey Mitchell Pkwy S, College Station, TX 77840"
+Parkway Apartments,"4,4",508,N,Y,Y,Y,Y,Y,Y,Y,Y,35,3.10 ,3.00 ,3.80 ,2.30 ,3.10 ,9.6,3.7,http://theparkwaylife.com/,19793140382,"1352 Harvey Mitchell Pkwy S, College Station, TX 77840"
+Holleman Crossing Apartments,"1,1",1100,Y,Y,Y,Y,Y,Y,Y,Y,Y,35,2.70 ,2.60 ,3.20 ,2.80 ,3.60 ,10,3.9,http://www.hollemancrossing.com/,19797038240,"2200 Cottage Ln, College Station, TX 77845"
+Holleman Crossing Apartments,"2,2",740,N,Y,Y,Y,Y,Y,Y,Y,Y,35,2.70 ,2.60 ,3.20 ,2.80 ,3.60 ,10,3.9,http://www.hollemancrossing.com/,19797038240,"2201 Cottage Ln, College Station, TX 77845"
+Holleman Crossing Apartments,"4,4",575,N,Y,Y,Y,Y,Y,Y,Y,Y,35,2.70 ,2.60 ,3.20 ,2.80 ,3.60 ,10,3.9,http://www.hollemancrossing.com/,19797038240,"2202 Cottage Ln, College Station, TX 77845"
+Treehouse Apartments and Condominiums,"1,1",725,Y,N,Y,Y,Y,N,Y,Y,Y,36,1.30 ,1.20 ,1.90 ,0.70 ,1.50 ,10.1,3.4,https://treehouseapartmentscstx.com/,19796965707,"200 Marion Pugh Dr, College Station, TX 77840"
+Treehouse Apartments and Condominiums,"2,2",940,Y,N,Y,Y,Y,N,Y,Y,Y,36,1.30 ,1.20 ,1.90 ,0.70 ,1.50 ,10.1,3.4,https://treehouseapartmentscstx.com/,19796965707,"201 Marion Pugh Dr, College Station, TX 77840"
