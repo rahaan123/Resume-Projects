@@ -1,1 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Home Automation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Smart Home Automation</h1>
+
+    <div>
+        <button onclick="controlDevice('light', 'on')">Turn Light On</button>
+        <button onclick="controlDevice('light', 'off')">Turn Light Off</button>
+    </div>
+
+    <div>
+        <button onclick="controlDevice('fan', 'on')">Turn Fan On</button>
+        <button onclick="controlDevice('fan', 'off')">Turn Fan Off</button>
+    </div>
+
+    <h2>Sensor Data</h2>
+    <p id="sensor_data">Loading...</p>
+
+    <script>
+        function controlDevice(device, action) {
+            fetch('/control', {
+                method: 'POST',
+                body: new URLSearchParams({device, action}),
+                headers: {'Content-Type': 'application/x-www-form-urlencoded'}
+            })
+            .then(response => response.json())
+            .then(data => console.log(data));
+        }
+
+        function fetchSensorData() {
+            fetch('/sensor_data')
+                .then(response => response.json())
+                .then(data => {
+                    if (data.temperature) {
+                        document.getElementById('sensor_data').innerText = `Temperature: ${data.temperature}°C`;
+                    } else {
+                        document.getElementById('sensor_data').innerText = 'Error fetching sensor data';
+                    }
+                });
+        }
+
+        setInterval(fetchSensorData, 5000);  // Refresh sensor data every 5 seconds
+    </script>
+</body>
+</html>
 
