@@ -1,5 +1,5 @@
 # first do
-pip install -r requirements.txt
+'''pip install -r requirements.txt'''
 
 # To run the repo:
 python test_runner.py
