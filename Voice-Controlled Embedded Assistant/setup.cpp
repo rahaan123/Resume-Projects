@@ -1,5 +1,6 @@
 #include <iostream>
 #include <alsa/asoundlib.h>
+#include <cstdlib>  // for system()
 
 int main() {
     snd_pcm_t *pcm_handle;
@@ -39,6 +40,7 @@ int main() {
             std::cerr << "Error reading audio data." << std::endl;
             break;
         }
+    system("python3 recog.py");
     }
     
     snd_pcm_close(pcm_handle);
